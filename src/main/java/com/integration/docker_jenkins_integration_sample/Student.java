@@ -1,8 +1,8 @@
 package com.integration.docker_jenkins_integration_sample;
 
-import jakarta.persistence.Entity;
+//import jakarta.persistence.Entity;
 
-@Entity(name="student")
+//@Entity(name="student")
 public class Student 
 {
  int id;
